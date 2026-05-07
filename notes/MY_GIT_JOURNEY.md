@@ -1,3 +1,5 @@
+![Git Process](../notesimages/gitprocess.jpeg)
+
 Today I completed the full Git and GitHub setup required for the AI Engineering From Scratch course. First, I checked whether Git was installed correctly on my Windows system using the command:
 
 git --version
